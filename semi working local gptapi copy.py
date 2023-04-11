@@ -3,7 +3,7 @@ from tkinter import ttk
 import openai
 import requests
 
-api_key = "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"
+api_key = "API KEY HERE"
 
 headers = {
     "Content-Type": "application/json",
